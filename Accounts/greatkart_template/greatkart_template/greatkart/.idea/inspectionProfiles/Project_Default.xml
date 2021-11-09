@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="facebook.facebook.urls.profileapp" />
+          <option value="profileapp" />
+          <option value="facebook.facebook.forms.models" />
+          <option value="facebook.profileapp.views.forms" />
+          <option value="mahanandi.ganeshapp.views.ganeshapp" />
+          <option value="School_list.Student_list_app.admin.Student_list_app" />
+          <option value="instaproject.cloneapp.views.cloneapp" />
+          <option value="SocialMedia.SocialMedia.urls.Mediaapp" />
+          <option value="SocialMedia.posts.models.group" />
+          <option value="SocialMedia.groups.views.groups" />
+          <option value="VideoStore.VideoStore.settings.STATIC_DIR" />
+          <option value="Watchmate.Watchlist.api.views.Watchlist" />
+          <option value="Watchmate.user_app.api.urls.user_app" />
+          <option value="Watchmate.Watchlist.tests.user__username" />
+          <option value="Watchmate.user_app.api.views.user_app" />
+          <option value="DefaultUser.Userapp.api.serializers.serializers" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
