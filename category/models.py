@@ -3,6 +3,7 @@ from django.urls import reverse
 
 # Create your models here.
 
+
 ##categories
 
 class category(models.Model):
@@ -21,5 +22,3 @@ class category(models.Model):
 
     def __str__(self):
         return self.category_name
-
-    
