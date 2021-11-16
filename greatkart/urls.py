@@ -27,6 +27,10 @@ urlpatterns = [
     path('carts/',include('carts.urls')),
     path('accounts/',include('Accounts.urls')),
 
+    # Orders
+
+    path('orders/',include('orders.urls')),
+
 ]
 
 

@@ -1,0 +1,17 @@
+{% autoescape off %}
+
+
+Hi {{ user.first_name}},
+
+
+Thank you for your order. Your estimated delivery date is indicated below. If you would like to view the status of your order or make any changes to it, please visit Your Orders on Winkel.in
+
+{{order.order_number}}
+payment_id:{{payment.payment_id}}
+amount_paid:{{payment.amount_paid}}
+
+
+
+
+
+{% endautoescape %}
