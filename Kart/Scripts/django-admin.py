@@ -1,4 +1,4 @@
-#!c:\users\rakesh\desktop\greatkart\kart\scripts\python.exe
+#!C:\Users\Rakesh\Desktop\Winkel\Kart\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
